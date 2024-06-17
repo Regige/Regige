@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Regina</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate web developer from Germany</h3>
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **contact@regina-gering.com**
 
